@@ -1,0 +1,9 @@
+
+{
+  "name": "River",
+  "description": "A client application for the River service to monitor water consumption, schedule refills, and manage billing.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
